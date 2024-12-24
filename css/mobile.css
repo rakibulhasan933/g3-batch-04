@@ -1,3 +1,28 @@
-#title {
-    color: hotpink;
+.bg-header {
+    background-color: #ddab73;
+}
+
+.header-content {
+    padding: 10px;
+}
+
+.header-title {
+    font-size: 40px;
+    color: black;
+    margin: 20px 0px;
+}
+
+img {
+    width: 100%;
+}
+
+.btn {
+    padding: 8px 16px;
+    margin: 20px 0;
+    background-color: #FF900E;
+    border-style: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
 }
